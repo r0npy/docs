@@ -10,6 +10,7 @@ rebuild.cmd
 
 *.exe
 *.msi
+*.bat
 
 _site/
 api/
